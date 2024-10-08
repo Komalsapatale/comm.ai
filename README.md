@@ -102,3 +102,8 @@ You can modify the conversation behavior by adjusting the AI's settings in confi
 4.Push to the branch ```(git push origin feature/AmazingFeature)```
 
 5.Open a pull request
+
+
+## Dataset
+
+The project uses a curated dataset that includes diverse conversational prompts and scenarios. For object detection, datasets such as COCO or PASCAL VOC can be employed, while pose tracking may utilize datasets like MPII or OpenPose. Ensure to specify the dataset sources and any preprocessing steps taken.
